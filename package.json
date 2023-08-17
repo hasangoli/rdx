@@ -1,0 +1,15 @@
+{
+  "name": "rdx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "git": "git add . && git commit -m \"Updated!\" && git pull && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.2.1"
+  }
+}
